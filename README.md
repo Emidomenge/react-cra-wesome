@@ -2,10 +2,11 @@
   
     
     
-# Create react app - Remixed by Emilien DH      
+# "react-cra'wesome"
  This is an empty [CRA](https://github.com/facebook/create-react-app)  app, version **1.1.5**.    
+It comes with cool stuff, take a look to the demo, all details there ! :)
 
-Project remixed by [Emilien Domenge-Heritier](http://www.domenge.fr/)    
+Project created by [Emilien Domenge-Heritier](http://www.domenge.fr/)    
     
     
 ## Things to change before getting started     
