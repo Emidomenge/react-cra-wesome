@@ -2,7 +2,7 @@
   
     
     
-# "react-cra'wesome"
+# react-cra'wesome
  This is an empty [CRA](https://github.com/facebook/create-react-app)  app, version **1.1.5**.    
 It comes with cool stuff, take a look to the demo, all details there ! :)
 
