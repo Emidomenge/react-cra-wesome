@@ -6,7 +6,7 @@ import css from './forkOnGithub.css';
 const ForkOnGithub = () => (
   <div className="absolute top-0 right-0 fixed z-1">
     <a
-      href="https://bitbucket.org/Atoplix/blank-cra-project/src/master/"
+      href="https://github.com/Emidomenge/react-cra-wesome"
       target="_blank"
       rel="noopener noreferrer"
     >

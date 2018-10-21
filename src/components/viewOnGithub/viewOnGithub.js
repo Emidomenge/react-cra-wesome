@@ -30,7 +30,7 @@ const ViewOnGithub = () => (
               style={{ textShadow: '0 1px 0 rgba(0, 0, 0, 0.1)' }}
             />
           </div>
-          <Button className="ma2" href="https://bitbucket.org/Atoplix/blank-cra-project/src/master/" target="_blank">Check on Github</Button>
+          <Button className="ma2" href="https://github.com/Emidomenge/react-cra-wesome" target="_blank">Check on Github</Button>
         </div>
       </Col>
     </Row>
